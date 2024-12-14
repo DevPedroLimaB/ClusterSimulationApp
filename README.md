@@ -16,7 +16,7 @@ Este projeto simula um **cluster computacional** utilizando threads para executa
 ## ✅ **Guia de Uso**
 1. Clone este repositório ou baixe
 
-## 📶Resultado
+## 📶 **Resultado**
 Iniciando simulação do cluster computacional...
 
 Testando com 10 threads...
@@ -242,3 +242,6 @@ Tempo de Execução Sequencial: 7 ms
 
 
 Process finished with exit code 0
+
+## 📢 **Autores**
+Pedro Henrique Lima Barbosa & Antonio Lucas
